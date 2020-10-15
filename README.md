@@ -15,10 +15,6 @@ Join this session to get to know how the SAP Enterprise Threat Detection applica
 Start the exercises [here](https://github.com/SAP-samples/teched2020-IIS267/blob/main/SAP_ENTERPRISE_THREAT_DETECTION_Exercises_ETD2_1_HandsOnPartnerWorkshop.pdf).
     
 
-**IMPORTANT**
-
-Your repo must contain the .reuse and LICENSES folder and the License section below. DO NOT REMOVE the section or folders/files. Also, remove all unused template assets(images, folders, etc) from the exercises folder. 
-
 ## How to obtain support
 
 Support for the content in this repository is available during the actual time of the online session for which this content has been designed. Otherwise, you may request support via the [Issues](../../issues) tab.
