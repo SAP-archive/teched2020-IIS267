@@ -12,7 +12,7 @@ Join this session to get to know how the SAP Enterprise Threat Detection applica
 
 
 ## Exercise
-Start the exercises [here] (https://github.com/SAP-samples/teched2020-IIS267/blob/main/SAP_ENTERPRISE_THREAT_DETECTION_Exercises_ETD2_1_HandsOnPartnerWorkshop.pdf).
+Start the exercises [here](https://github.com/SAP-samples/teched2020-IIS267/blob/main/SAP_ENTERPRISE_THREAT_DETECTION_Exercises_ETD2_1_HandsOnPartnerWorkshop.pdf).
     
 
 **IMPORTANT**
