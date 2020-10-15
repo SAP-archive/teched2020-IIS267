@@ -1,4 +1,4 @@
-# Session ID - Session Title
+# IIS267 - Secure the Intelligent Enterprise with SAP Enterprise Threat Detection
 
 ## Description
 
