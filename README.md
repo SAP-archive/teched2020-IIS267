@@ -17,7 +17,9 @@ Get the PowerPoint [here](https://github.com/SAP-samples/teched2020-IIS267/blob/
 
 Exercise Overview [here](https://github.com/SAP-samples/teched2020-IIS267/blob/main/01_Hands_On_IntroLessonsDescr_SAP_TechEd_2020_IIS267_2hrs.pdf).
 
-Start the exercises [here](https://github.com/SAP-samples/teched2020-IIS267/blob/main/02_Exercises.pdf).
+System access and certificate [here]( https://github.com/SAP-samples/teched2020-IIS267/blob/main/03_SAP_TechEd_2020_IIS267_SystemAccess.pdf).
+
+System access Start the exercises [here](https://github.com/SAP-samples/teched2020-IIS267/blob/main/02_Exercises.pdf).
 
 ## How to obtain support
 
