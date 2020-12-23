@@ -1,5 +1,7 @@
 # IIS267 - Secure the Intelligent Enterprise with SAP Enterprise Threat Detection
 
+[![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/teched2020-IIS267)](https://api.reuse.software/info/github.com/SAP-samples/teched2020-IIS267)
+
 ## Description
 
 This repository contains the material for the SAP TechEd 2020 session called Session ID - IIS267 
